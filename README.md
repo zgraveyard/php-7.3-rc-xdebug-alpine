@@ -6,7 +6,7 @@
 This image contain php-7.3-RC based on alpine with xDebug, MySQL, PostgreSQL, Redis & GD enabled and Composer already installed
 
 ```
-PHP 7.3.0RC1 (cli) (built: Sep 15 2018 02:07:34) ( NTS )
+PHP 7.3.0RC2 (cli) (built: Oct  2 2018 18:11:48) ( NTS )
 Copyright (c) 1997-2018 The PHP Group
 Zend Engine v3.3.0-dev, Copyright (c) 1998-2018 Zend Technologies
     with Xdebug v2.7.0beta1, Copyright (c) 2002-2018, by Derick Rethans
