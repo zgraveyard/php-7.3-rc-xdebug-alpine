@@ -6,12 +6,14 @@
 This image contain php-7.3-RC based on alpine with xDebug, MySQL, PostgreSQL, Redis & GD enabled and Composer already installed
 
 ```
-PHP 7.3.0RC5 (fpm-fcgi) (built: Nov 16 2018 02:56:12)
+PHP 7.3.0RC6 (cli) (built: Nov 27 2018 23:02:16) ( NTS )
 Copyright (c) 1997-2018 The PHP Group
 Zend Engine v3.3.0-dev, Copyright (c) 1998-2018 Zend Technologies
     with Xdebug v2.7.0beta2-dev, Copyright (c) 2002-2018, by Derick Rethans
 ```
 
+
+__I've set it up to auto-build once the base image updated, but I cant be sure that it will work__
 
 ## Runing the image:
 
